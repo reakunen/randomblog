@@ -1,0 +1,20 @@
+h4 {
+    margin: 10px;
+}
+
+.d {
+    color:olive;
+}
+
+.c, .a {
+    display: inline;
+    vertical-align: top;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 28px;
+    padding: 12px;
+
+  }
+
+input {
+    margin: 10px; 
+}
